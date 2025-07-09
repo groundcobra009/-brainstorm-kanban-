@@ -10,7 +10,7 @@ const Sidebar: React.FC = () => {
     <div className="flex flex-col h-full bg-light-surface dark:bg-dark-background text-light-text_primary dark:text-dark-text_primary border-r border-light-border dark:border-dark-border w-64 p-4 transition-colors duration-300">
       <div className="flex items-center gap-2 mb-8">
         <BrainIcon className="h-8 w-8 text-light-accent dark:text-dark-accent" />
-        <h1 className="text-xl font-bold">Brainstorm App</h1>
+        <h1 className="text-xl font-bold">おい、ファンファン大佐対策、ブレストしようぜ</h1>
       </div>
       <nav className="flex flex-col gap-2">
         <a href="#" className="p-2 rounded-md font-medium bg-light-background dark:bg-dark-surface">
